@@ -15,7 +15,7 @@ Este é um aplicativo React Native para gerar senhas aleatórias.
 
 ## Como executar
 1. Clone o repositório:
-   git clone [https://github.com/seu-usuario/gerador-de-senhas.gi](https://github.com/YkaroAlexandre/gerador-de-senhas.git)
+   git clone https://github.com/YkaroAlexandre/gerador-de-senhas.git
 
 2. Acesse o direório do projeto:
    cd gerador-de-senahs
